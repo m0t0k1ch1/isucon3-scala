@@ -66,7 +66,7 @@ trait IsuconRoutes extends IsuconStack with JacksonJsonSupport with FileUploadSu
 
   def convert(orig: String, ext: String, w: Int, h: Int): Array[Byte] = {
     val file        = File.createTempFile("ISUCON", "")
-    val newFileName = file.getPath + ".${ext}"
+    val newFileName = file.getPath + s".${ext}"
 
     Process(s"convert -geometry ${w}x${h} ${orig} ${newFileName}") !
 
