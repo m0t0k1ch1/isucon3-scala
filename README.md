@@ -1,5 +1,5 @@
 isucon3-scala
-=============
+=====
 
 a copy of the application used at ISUCON3 final, built with Scalatra
 
