@@ -1,8 +1,9 @@
-# isucon3-scala #
+isucon3-scala
+=============
 
 a copy of the application used at ISUCON3 final, built with Scalatra
 
-## Build & Run ##
+## Build & Run
 
 ```sh
 $ cd isucon3-scala
@@ -12,10 +13,10 @@ $ ./sbt
 
 before you open the application, you have to create tables
 
-- Create Tables
+* Create Tables
 [http://localhost:8080/db/create-tables](http://localhost:8080/db/create-tables)
 
 then, you can open the application
 
-- Index
+* Index
 [http://localhost:8080](http://localhost:8080)
