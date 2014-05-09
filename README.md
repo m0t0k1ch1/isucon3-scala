@@ -16,7 +16,7 @@ Before you open the application, you have to create tables.
 * create tables
 [http://localhost:8080/db/create-tables](http://localhost:8080/db/create-tables)
 
-Then, you can open the application
+Then, you can open the application.
 
 * index
 [http://localhost:8080](http://localhost:8080)
