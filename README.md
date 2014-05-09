@@ -18,5 +18,5 @@ Before you open the application, you have to create tables.
 
 Then, you can open the application.
 
-* index
+* show index
 [http://localhost:8080](http://localhost:8080)
