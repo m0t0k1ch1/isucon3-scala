@@ -11,12 +11,12 @@ $ ./sbt
 > container:start
 ```
 
-before you open the application, you have to create tables
+Before you open the application, you have to create tables.
 
-* Create Tables
+* create tables
 [http://localhost:8080/db/create-tables](http://localhost:8080/db/create-tables)
 
-then, you can open the application
+Then, you can open the application
 
-* Index
+* index
 [http://localhost:8080](http://localhost:8080)
