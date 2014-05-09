@@ -5,7 +5,7 @@ a copy of the application used at ISUCON3 final, built with Scalatra
 
 ## Build & Run
 
-```sh
+``` sh
 $ cd isucon3-scala
 $ ./sbt
 > container:start
