@@ -12,7 +12,7 @@ $ ./sbt
 ```
 
 Before you open the application, you have to create database named `isucon` in mysql.
-In order to create tables, access the following URL;
+In order to create tables, access the following URL.
 
 [http://localhost:8080/db/create-tables](http://localhost:8080/db/create-tables)
 
